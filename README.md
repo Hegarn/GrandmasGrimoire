@@ -1,3 +1,3 @@
 # GrandmasGrimoire
 
-Developed with Unreal Engine 5
+Developed for the itch.io "Game Off 2024"
