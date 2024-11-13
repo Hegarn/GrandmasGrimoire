@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "a:\\unreal\\projects\\kaigargames\\grandmasgrimoire\\plugins\\epicleaderboard\\intermediate\\build\\win64\\unrealgame\\inc\\epicleaderboard\\uht\\epicleaderboard.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "a:\\unreal\\projects\\kaigargames\\grandmasgrimoire\\intermediate\\build\\win64\\x64\\grandmasgrimoire\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "a:\\unreal\\projects\\kaigargames\\grandmasgrimoire\\plugins\\epicleaderboard\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\epicleaderboard\\definitions.epicleaderboard.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
